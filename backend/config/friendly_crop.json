@@ -1,0 +1,70 @@
+{
+  "image_width": 900,
+  "image_height": 1600,
+  "crop_boxes": [
+    {
+      "card_number": 1,
+      "card_name": "goblingiant",
+      "x1": 112,
+      "y1": 1384,
+      "x2": 200,
+      "y2": 1504
+    },
+    {
+      "card_number": 2,
+      "card_name": "hunter",
+      "x1": 208,
+      "y1": 1384,
+      "x2": 296,
+      "y2": 1504
+    },
+    {
+      "card_number": 3,
+      "card_name": "lightning",
+      "x1": 306,
+      "y1": 1384,
+      "x2": 394,
+      "y2": 1504
+    },
+    {
+      "card_number": 4,
+      "card_name": "barbbarrel",
+      "x1": 402,
+      "y1": 1384,
+      "x2": 490,
+      "y2": 1504
+    },
+    {
+      "card_number": 5,
+      "card_name": "snowball",
+      "x1": 501,
+      "y1": 1384,
+      "x2": 589,
+      "y2": 1504
+    },
+    {
+      "card_number": 6,
+      "card_name": "minions",
+      "x1": 597,
+      "y1": 1384,
+      "x2": 685,
+      "y2": 1504
+    },
+    {
+      "card_number": 7,
+      "card_name": "darkprince",
+      "x1": 696,
+      "y1": 1384,
+      "x2": 784,
+      "y2": 1504
+    },
+    {
+      "card_number": 8,
+      "card_name": "sparky",
+      "x1": 792,
+      "y1": 1384,
+      "x2": 880,
+      "y2": 1504
+    }
+  ]
+}

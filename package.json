@@ -1,0 +1,16 @@
+{
+  "name": "royalecompanion-community",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clash Royale Pocket Companion - Community Edition",
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=frontend",
+    "build": "npm run build --workspace=frontend",
+    "dist": "npm run dist --workspace=frontend"
+  },
+  "author": "chanejianrungsang",
+  "license": "MIT"
+}

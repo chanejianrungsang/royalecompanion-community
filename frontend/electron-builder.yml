@@ -1,0 +1,46 @@
+appId: com.royalecompanion.app
+productName: RoyaleCompanion
+copyright: Copyright © 2024
+
+directories:
+  buildResources: public
+  output: release
+
+files:
+  - dist/**/*
+  - src/main/**/*
+  - package.json
+
+extraResources:
+  - from: ../backend
+    to: backend
+    filter:
+      - "**/*"
+      - "!**/__pycache__"
+      - "!**/*.pyc"
+      - "!**/*.log"
+
+win:
+  target:
+    - nsis
+  icon: public/icon.png
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: always
+  createStartMenuShortcut: true
+
+mac:
+  target:
+    - dmg
+  icon: public/icon.icns
+  category: public.app-category.utilities
+
+linux:
+  target:
+    - AppImage
+  icon: public/icon.png
+  category: Utility
+
+
