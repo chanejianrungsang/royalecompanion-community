@@ -4,6 +4,10 @@
 
 **Open-source desktop assistant for tracking Clash Royale matches in real time. This application best works for players in Ranked mode where spectators cannot view the elixir count.**
 
+## Demo Sneak Peek
+
+https://github.com/user-attachments/assets/c873d76a-9abd-42ce-88b9-3ff93cfa556b
+
 ## Features
 
 **Real-Time Match Tracking**
