@@ -107,10 +107,6 @@ python backend/main_headless.py
 - Initial calibration required for accurate card detection
 - Timer OCR may require adjustment based on screen resolution
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Clash Royale is a trademark of Supercell
